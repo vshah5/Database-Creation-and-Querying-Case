@@ -1,10 +1,15 @@
 ### Excel-to-SQL-Dataset-Case
 
 A database was created based on the case info, data fields were inserted into the database, and finally SQL queries were used to do the following:
+
 a) Provide an alphabetical list showing common and legal names of all Ontario charities.
+
 b) Generate a list with employee first name, last name, and number of articles published.
+
 c) How many times was each article viewed, from most to least popular?
+
 d) List the common name of each charity, along with its sector and sum of all donations made during 2020, starting with the highest donation total.
+
 
 **Case Info:**
 
